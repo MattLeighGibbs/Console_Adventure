@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wW7WUlWdOXwFIUX4SiXRduOEvopTb9lIqyGHiSP8sxRzLnmu8Ip6C2ftWtyaqqsd/FmOXvFZE5eVQdOnuACUsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matthew Gibbs\\source\\repos\\ConsoleAdventure\\ConsoleAdventure\\ConsoleAdventure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew Gibbs\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

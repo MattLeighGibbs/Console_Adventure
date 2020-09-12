@@ -1,0 +1,13 @@
+[
+  {
+    "ID": 1,
+    "Description": "A dank hole",
+    "South": 2
+  },
+
+  {
+    "ID": 2,
+    "Description": "A hole",
+    "North": 1
+  }
+]
