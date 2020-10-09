@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matthew Gibbs\\source\\repos\\ConsoleAdventure\\ConsoleAdventure\\ConsoleAdventure.csproj": {}
+    "C:\\Development\\Console_Adventure\\ConsoleAdventure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matthew Gibbs\\source\\repos\\ConsoleAdventure\\ConsoleAdventure\\ConsoleAdventure.csproj": {
+    "C:\\Development\\Console_Adventure\\ConsoleAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matthew Gibbs\\source\\repos\\ConsoleAdventure\\ConsoleAdventure\\ConsoleAdventure.csproj",
+        "projectUniqueName": "C:\\Development\\Console_Adventure\\ConsoleAdventure.csproj",
         "projectName": "ConsoleAdventure",
-        "projectPath": "C:\\Users\\Matthew Gibbs\\source\\repos\\ConsoleAdventure\\ConsoleAdventure\\ConsoleAdventure.csproj",
-        "packagesPath": "C:\\Users\\Matthew Gibbs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matthew Gibbs\\source\\repos\\ConsoleAdventure\\ConsoleAdventure\\obj\\",
+        "projectPath": "C:\\Development\\Console_Adventure\\ConsoleAdventure.csproj",
+        "packagesPath": "C:\\Users\\mattg\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Console_Adventure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matthew Gibbs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mattg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

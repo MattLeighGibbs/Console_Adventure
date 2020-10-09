@@ -1,57 +1,49 @@
 ﻿using ConsoleAdventure;
 using Newtonsoft.Json;
 using System;
-using System.Collections.Generic;
 using System.Dynamic;
 using System.IO;
 
 namespace ConsoleAdventure
 {
 
-    class Enums
-    {
-        enum TypeMovement
-        {
-            NORTH,
-            SOUTH,
-            WEST,
-            EAST
-        }
-    }
-    class Room
-    {
-        public Room North { get; set; } = null;
-        public Room South { get; set; } = null;
-        public Room West { get; set; } = null;
-        public Room East { get; set; } = null;
-        public List<Room> AllRooms { get; set; }
-        public string Description { get; set; } = "";
-    }
-    class Movement
-    {
-        public static void Query(Room room)
-        {
-            room.AllRooms.ForEach(a => Console.WriteLine(a.Description));
-        }
-    }
-    public class JSONRoomReader
-    {
-        public JSONRoomReader()
-        {
-
-            using (StreamReader file = File.OpenText("..\\..\\..\\json1.json"))
-            {
-                List<Room> output = JsonConvert.DeserializeObject<List<Room>>(file);
-                var stuff = 1;
-            }
-        }
-    }
-
     class Program
     {
         static void Main(string[] args)
         {
-            JSONRoomReader roomReader = new JSONRoomReader();
+            Player player = new Player()
+            {
+                Name = "Hulk Hogan",
+                Atk = 8,
+                HP = 20,
+                Def = 10
+            };
+            Goblin goblin = new Goblin()
+            {
+                Name = "Danny Sexbang",
+                Atk = 2,
+                HP = 5,
+                Def = 5
+            };
+            while (player.HP > 0 && goblin.HP > 0)
+            {
+
+
+                MoveFactory.ProcessMove(player, goblin);
+                MoveFactory.ProcessMove(goblin, player);
+           
+                
+
+            }
+            if (player.HP < 1)
+            {
+                Console.WriteLine("Player is dead!");
+            }
+            if (goblin.HP < 1)
+            {
+                Console.WriteLine("Goblin is dead!");
+                Console.Write("You Won!");
+            }
         }
     }
 }
