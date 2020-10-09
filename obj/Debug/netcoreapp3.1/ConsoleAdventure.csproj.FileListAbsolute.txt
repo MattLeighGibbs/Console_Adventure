@@ -13,3 +13,18 @@ C:\Users\Matthew Gibbs\source\repos\ConsoleAdventure\ConsoleAdventure\obj\Debug\
 C:\Users\Matthew Gibbs\source\repos\ConsoleAdventure\ConsoleAdventure\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Matthew Gibbs\source\repos\ConsoleAdventure\ConsoleAdventure\obj\Debug\netcoreapp3.1\ConsoleAdventure.csproj.CoreCompileInputs.cache
 C:\Users\Matthew Gibbs\source\repos\ConsoleAdventure\ConsoleAdventure\obj\Debug\netcoreapp3.1\ConsoleAdventure.csproj.CopyComplete
+C:\Development\Console_Adventure\obj\Debug\netcoreapp3.1\ConsoleAdventure.csprojAssemblyReference.cache
+C:\Development\Console_Adventure\obj\Debug\netcoreapp3.1\ConsoleAdventure.AssemblyInfoInputs.cache
+C:\Development\Console_Adventure\obj\Debug\netcoreapp3.1\ConsoleAdventure.AssemblyInfo.cs
+C:\Development\Console_Adventure\obj\Debug\netcoreapp3.1\ConsoleAdventure.dll
+C:\Development\Console_Adventure\obj\Debug\netcoreapp3.1\ConsoleAdventure.pdb
+C:\Development\Console_Adventure\bin\Debug\netcoreapp3.1\ConsoleAdventure.exe
+C:\Development\Console_Adventure\bin\Debug\netcoreapp3.1\ConsoleAdventure.deps.json
+C:\Development\Console_Adventure\bin\Debug\netcoreapp3.1\ConsoleAdventure.runtimeconfig.json
+C:\Development\Console_Adventure\bin\Debug\netcoreapp3.1\ConsoleAdventure.runtimeconfig.dev.json
+C:\Development\Console_Adventure\bin\Debug\netcoreapp3.1\ConsoleAdventure.dll
+C:\Development\Console_Adventure\bin\Debug\netcoreapp3.1\ConsoleAdventure.pdb
+C:\Development\Console_Adventure\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Development\Console_Adventure\obj\Debug\netcoreapp3.1\ConsoleAdventure.csproj.CopyComplete
+C:\Development\Console_Adventure\obj\Debug\netcoreapp3.1\ConsoleAdventure.genruntimeconfig.cache
+C:\Development\Console_Adventure\obj\Debug\netcoreapp3.1\ConsoleAdventure.csproj.CoreCompileInputs.cache
