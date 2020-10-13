@@ -6,8 +6,7 @@ using System.IO;
 
 namespace ConsoleAdventure
 {
-
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -27,13 +26,9 @@ namespace ConsoleAdventure
             };
             while (player.HP > 0 && goblin.HP > 0)
             {
-
-
                 MoveFactory.ProcessMove(player, goblin);
                 MoveFactory.ProcessMove(goblin, player);
-           
-                
-
+                        
             }
             if (player.HP < 1)
             {
