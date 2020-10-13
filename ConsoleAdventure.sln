@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAdventure", "ConsoleAdventure.csproj", "{06A9F0E8-C36A-4CB6-A5F9-BC6ECAA19185}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitor", "..\WpfApp1\Monitor.csproj", "{586006E9-5E3B-49C5-86EC-1A7E2CA8494E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{06A9F0E8-C36A-4CB6-A5F9-BC6ECAA19185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06A9F0E8-C36A-4CB6-A5F9-BC6ECAA19185}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06A9F0E8-C36A-4CB6-A5F9-BC6ECAA19185}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06A9F0E8-C36A-4CB6-A5F9-BC6ECAA19185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586006E9-5E3B-49C5-86EC-1A7E2CA8494E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586006E9-5E3B-49C5-86EC-1A7E2CA8494E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586006E9-5E3B-49C5-86EC-1A7E2CA8494E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586006E9-5E3B-49C5-86EC-1A7E2CA8494E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
